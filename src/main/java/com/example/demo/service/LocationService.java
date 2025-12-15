@@ -1,5 +1,5 @@
 package com.example.demo.service;
 
-public class LocationService {
+public interface LocationService {
     
 }
