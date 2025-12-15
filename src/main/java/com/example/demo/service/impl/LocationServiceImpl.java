@@ -9,6 +9,7 @@ import com.example.demo.service.LocationService;
 @Service
 public class LocationServiceImpl implements LocationService{
 
+    @A
     public Location createLocation(){
 
     }
